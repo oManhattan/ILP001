@@ -11,7 +11,7 @@ import SwiftUI
 struct ILP001App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }
